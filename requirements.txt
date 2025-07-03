@@ -1,0 +1,5 @@
+unsloth
+vllm
+diffusers
+trl
+datasets
