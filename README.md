@@ -1,6 +1,6 @@
 # MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs
 
-
+🔗 Paper link: [Arxiv preprint](https://arxiv.org/abs/2507.02851)
 
 The [INFTYTHINK architecture](https://arxiv.org/abs/2503.06692v1), shown below, allows multi-round thinking for extended LLM reasoning beyond its context size.
 <p align="center">
