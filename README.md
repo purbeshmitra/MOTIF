@@ -21,7 +21,7 @@ If you find our work useful, consider citing it as:
     mitra2025motif,
     title={MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs},
     author={Mitra, Purbesh and Ulukus, Sennur},
-    journal={arXiv preprint arXiv:2507.02851v1},
+    journal={arXiv preprint arXiv:2507.02851},
     year={2025}
 }
 ```
