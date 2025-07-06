@@ -1,6 +1,7 @@
 # MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs
 
 🔗 Paper link: [Arxiv preprint](https://arxiv.org/abs/2507.02851)
+
 🔗 Link to the trained models: [MOTIF trained model](https://huggingface.co/collections/purbeshmitra/motif-paper-models-686a2f36407bb88f750eef75)
 
 The [INFTYTHINK architecture](https://arxiv.org/abs/2503.06692v1), shown below, allows multi-round thinking for extended LLM reasoning beyond its context size.
