@@ -14,6 +14,11 @@ In this work, we propose a GRPO based training method for such a system that all
   <img src="assets/multiround_grpo.png" alt="Alt Text" width="750">
 </p>
 
+Our results are shown below:
+<p align="center">
+  <img src="assets/motif_results.png" alt="Alt Text" width="750">
+</p>
+
 ## Citation
 If you find our work useful, consider citing it as:
 ```bibtex
