@@ -13,3 +13,15 @@ In this work, we propose a GRPO based training method for such a system that all
 <p align="center">
   <img src="assets/multiround_grpo.png" alt="Alt Text" width="750">
 </p>
+
+## Citation
+If you find our work useful, consider citing it as:
+```bibtex
+@article{
+    mitra2025motif,
+    title={MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs},
+    author={Mitra, Purbesh and Ulukus, Sennur},
+    journal={arXiv preprint arXiv:2507.02851},
+    year={2025}
+}
+```
